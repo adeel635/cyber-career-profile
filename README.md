@@ -1,6 +1,7 @@
 # 🛡️ Muhammad Adeel Tariq — Career & Training Background
 
-![CEH Certified](https://shields.io) ![Penetration Tester](https://shields.io) ![Network Security](https://shields.io)
+> **🎓 BS IT Graduate | 💻 CEH Certified | 🎯 Aspiring Penetration Tester**
+> *Specializing in Network, Infrastructure & Web Application Security*
 
 This repository serves as my official career profile and training log. For my hands-on technical labs, exploits, and core coding projects, explore my primary dashboard.
 
@@ -8,7 +9,10 @@ This repository serves as my official career profile and training log. For my ha
 
 ### 🌐 Quick Links & Connect
 
-[![Main Profile](https://shields.io)](https://github.com) [![Lab Writeups](https://img.shields.io/badge/🔬%20Lab%20Writeups-007ACC?style=flat-square)](https://github.com/ctf-writeups) [![Portfolio](https://shields.io)](https://github.io) [![LinkedIn](https://shields.io)](https://linkedin.com) [![Email](https://shields.io)](mailto:adeeltariq1k@gmail.com)
+| 📊 GitHub Dashboards | 💼 Professional Networks | 📧 Direct Contact |
+| :--- | :--- | :--- |
+| 🏠 [Main Profile](https://github.com) | 🔗 [LinkedIn Profile](https://linkedin.com) | ✉️ [adeeltariq1k@gmail.com](mailto:adeeltariq1k@gmail.com) |
+| 🔬 [Lab Write-Ups & CTFs](https://github.com/ctf-writeups) | 🌐 [Portfolio Website](https://github.io) | ⚡ Available for Technical Interviews |
 
 ---
 
@@ -20,12 +24,12 @@ I am an **IT graduate specializing in Offensive Security**. My focus areas inclu
 
 ### 🛡️ Technical Skillset & Toolbelt
 
-| Domain | Tools & Technologies |
+| Security Domain | Core Tools & Frameworks |
 | :--- | :--- |
-| **Vulnerability Assessment** | `Nmap` • `Nessus` • `OpenVAS` • `Nikto` |
-| **Exploitation Frameworks** | `Metasploit` • `Burp Suite` • `Sqlmap` |
-| **Network & Wireless** | `Wireshark` • `Aircrack-ng` • `Netcat` |
-| **Operating Systems** | `Kali Linux` • `Parrot OS` • `Linux/Unix` • `Windows Server` |
+| 🔍 **Vulnerability Assessment** | `Nmap` • `Nessus` • `OpenVAS` • `Nikto` |
+| ⚡ **Exploitation Frameworks** | `Metasploit` • `Burp Suite` • `Sqlmap` |
+| 📡 **Network & Wireless** | `Wireshark` • `Aircrack-ng` • `Netcat` |
+| 💻 **Operating Systems** | `Kali Linux` • `Parrot OS` • `Linux/Unix` • `Windows Server` |
 
 ---
 
@@ -42,12 +46,12 @@ I am an **IT graduate specializing in Offensive Security**. My focus areas inclu
 
 | Credential | Issuing Authority | Status / Timeline |
 | :--- | :--- | :--- |
-| **Certified Ethical Hacker (CEH)** | EC-Council | Certified (2026) |
-| **Junior Cybersecurity Analyst** | Cisco Networking Academy | Certified (April 2026) |
-| **Cybersecurity Training Program (CEH-Aligned)** | NAVTTC / Corvit Institute | Completed *(Certificate Pending)* |
-| **VAPT Workshop** | Tech Hierarchy & Cyberster | Participated (August 2026) |
+| 🏆 **Certified Ethical Hacker (CEH)** | EC-Council | Certified (2026) |
+| 🎓 **Junior Cybersecurity Analyst** | Cisco Networking Academy | Certified (April 2026) |
+| 🏛️ **Cybersecurity Training Program (CEH-Aligned)** | NAVTTC / Corvit Institute | Completed *(Certificate Pending)* |
+| 🛠️ **VAPT Workshop** | Tech Hierarchy & Cyberster | Participated (August 2026) |
 
-> 🛠️ **Training Deep Dive:** My immersive government-funded program at Corvit Institute (Rawalpindi) prioritized system exploitation methodologies and defensive auditing. This live training directly fuels the proof-of-concepts located inside my [ctf-writeups](https://github.com/ctf-writeups) repository.
+> 📁 **Training Deep Dive:** My immersive government-funded program at Corvit Institute (Rawalpindi) prioritized system exploitation methodologies and defensive auditing. This live training directly fuels the proof-of-concepts located inside my [ctf-writeups](https://github.com/ctf-writeups) repository.
 
 ---
 
@@ -55,7 +59,7 @@ I am an **IT graduate specializing in Offensive Security**. My focus areas inclu
 
 I am actively seeking internships and entry-level cybersecurity roles with the following geographic preferences:
 
-* 🇵🇰 **Inside Pakistan:** Open to **Onsite, Hybrid, and Remote** positions (Available for relocation).
+* 🇵🇰 **Inside Pakistan:** Open to **Onsite, Hybrid, and Remote** positions *(Available for relocation)*.
 * 🌍 **Worldwide:** Open to **Fully Remote** international opportunities.
 
 #### **Target Roles:**
@@ -64,4 +68,4 @@ I am actively seeking internships and entry-level cybersecurity roles with the f
 * 📊 Junior Cybersecurity Analyst / SOC Tier 1
 
 ---
-_For custom tools, active infrastructure configurations, and writeups, visit my [Main GitHub Profile](https://github.com)._
+<p align="center"><i>For custom tools, active infrastructure configurations, and writeups, visit my <a href="https://github.com">Main GitHub Profile</a>.</i></p>
