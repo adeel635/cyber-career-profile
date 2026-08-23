@@ -12,7 +12,7 @@ This repository serves as my official career profile and training log. For my ha
 | 📊 GitHub Dashboards | 💼 Professional Networks | 📧 Direct Contact |
 | :--- | :--- | :--- |
 | 🏠 [Main Profile](https://github.com) | 🔗 [LinkedIn Profile](https://linkedin.com) | ✉️ [adeeltariq1k@gmail.com](mailto:adeeltariq1k@gmail.com) |
-| 🔬 [Lab Write-Ups & CTFs](https://github.com/ctf-writeups) | 🌐 [Portfolio Website](https://github.io) | ⚡ Available for Technical Interviews |
+| 🔬 [Lab Write-Ups & CTFs](https://github.com/adeel635/Penetration-Testing-Lab-Writeups) | 🌐 [Portfolio Website](https://github.io) | ⚡ Available for Technical Interviews |
 
 ---
 
